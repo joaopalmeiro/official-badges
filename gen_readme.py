@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
         badge_table.extend([project, badge["badge"], md])
 
-    mdFile.new_table(columns=n_cols, rows=n_rows, text=badge_table)
+    mdFile.new_table(columns=n_cols, rows=n_rows, text=badge_table, text_align="left")
 
     mdFile.create_md_file()
 
