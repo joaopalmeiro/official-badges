@@ -3,7 +3,7 @@ from operator import itemgetter
 
 import mdformat
 from mdutils.mdutils import MdUtils
-from natsort import natsorted
+from natsort import humansorted
 
 FILENAME = "README"
 
@@ -17,7 +17,9 @@ if __name__ == "__main__":
         # print(badges)
 
         # https://stackoverflow.com/a/73050
-        badges = natsorted(badges, key=itemgetter("project"))
+        # https://natsort.readthedocs.io/en/master/examples.html#locale-aware-sorting-human-sorting
+        # https://natsort.readthedocs.io/en/master/examples.html#case-sort
+        badges = humansorted(badges, key=itemgetter("project"))
         # print(badges)
 
     mdFile = MdUtils(file_name=FILENAME)
