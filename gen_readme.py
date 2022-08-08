@@ -1,7 +1,9 @@
 import json
+from operator import itemgetter
 
 import mdformat
 from mdutils.mdutils import MdUtils
+from natsort import natsorted
 
 FILENAME = "README"
 
@@ -11,6 +13,10 @@ FILENAME = "README"
 if __name__ == "__main__":
     with open("badges.json", "r") as f:
         badges = json.load(f)
+        # print(badges)
+
+        # https://stackoverflow.com/a/73050
+        badges = natsorted(badges, key=itemgetter("project"))
         # print(badges)
 
     mdFile = MdUtils(file_name=FILENAME)
