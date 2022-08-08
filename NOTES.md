@@ -8,3 +8,14 @@
 ## References
 
 - [Shields.io](https://shields.io/) website
+
+## Template
+
+```json
+{
+  "project": "",
+  "source": "",
+  "language": "",
+  "badge": ""
+}
+```

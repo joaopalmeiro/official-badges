@@ -1,5 +1,11 @@
 [
   {
+    "project": "PDM",
+    "source": "https://github.com/pdm-project/pdm#badges",
+    "language": "Python",
+    "badge": "[![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)"
+  },
+  {
     "project": "isort",
     "source": "https://pycqa.github.io/isort/#spread-the-word",
     "language": "Python",

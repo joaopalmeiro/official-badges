@@ -10,6 +10,7 @@ FILENAME = "README"
 # https://github.com/Nicceboy/python-markdown-generator
 # https://github.com/didix21/mdutils
 # https://github.com/Ileriayo/markdown-badges
+# https://github.com/aleen42/badges
 if __name__ == "__main__":
     with open("badges.json", "r") as f:
         badges = json.load(f)
