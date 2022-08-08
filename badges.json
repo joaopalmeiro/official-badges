@@ -1,5 +1,11 @@
 [
   {
+    "project": "Prettier",
+    "source": "https://github.com/prettier/prettier#badge",
+    "language": "JavaScript",
+    "badge": "[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)"
+  },
+  {
     "project": "pre-commit",
     "source": "https://pre-commit.com/#badging-your-repository",
     "language": "Python",
