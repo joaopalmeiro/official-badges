@@ -1,5 +1,11 @@
 [
   {
+    "project": "Bandit",
+    "source": "https://github.com/PyCQA/bandit#show-your-style",
+    "language": "Python",
+    "badge": "[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)"
+  },
+  {
     "project": "PDM",
     "source": "https://github.com/pdm-project/pdm#badges",
     "language": "Python",
