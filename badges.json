@@ -1,5 +1,11 @@
 [
   {
+    "project": "pylint",
+    "source": "https://pylint.pycqa.org/en/latest/user_guide/installation/badge.html",
+    "language": "Python",
+    "badge": "[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/PyCQA/pylint)"
+  },
+  {
     "project": "Prettier",
     "source": "https://github.com/prettier/prettier#badge",
     "language": "JavaScript",
