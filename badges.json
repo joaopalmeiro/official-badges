@@ -1,5 +1,11 @@
 [
   {
+    "project": "djLint",
+    "source": "https://github.com/Riverside-Healthcare/djlint#-like-it",
+    "language": "Python",
+    "badge": "[![Code style: djlint](https://img.shields.io/badge/html%20style-djlint-blue.svg)](https://www.djlint.com)"
+  },
+  {
     "project": "pylint",
     "source": "https://pylint.pycqa.org/en/latest/user_guide/installation/badge.html",
     "language": "Python",
