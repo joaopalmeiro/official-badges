@@ -8,6 +8,7 @@ mdutils = "==1.4.0"
 mdformat = "==0.7.14"
 mdformat-tables = "==0.4.1"
 natsort = "==8.1.0"
+sortedcontainers = "==2.4.0"
 
 [dev-packages]
 black = "==22.6.0"
