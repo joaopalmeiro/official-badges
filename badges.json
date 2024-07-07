@@ -1,48 +1,56 @@
 [
   {
     "project": "djLint",
-    "source": "https://github.com/Riverside-Healthcare/djlint#-like-it",
+    "package": "djlint",
+    "source": "https://github.com/djlint/djLint?tab=readme-ov-file#-like-it",
     "language": "Python",
     "badge": "[![Code style: djlint](https://img.shields.io/badge/html%20style-djlint-blue.svg)](https://www.djlint.com)"
   },
   {
     "project": "pylint",
-    "source": "https://pylint.pycqa.org/en/latest/user_guide/installation/badge.html",
+    "package": "pylint",
+    "source": "https://pylint.readthedocs.io/en/latest/user_guide/installation/badge.html",
     "language": "Python",
-    "badge": "[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/PyCQA/pylint)"
+    "badge": "[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)"
   },
   {
     "project": "Prettier",
-    "source": "https://github.com/prettier/prettier#badge",
+    "package": "prettier",
+    "source": "https://github.com/prettier/prettier?tab=readme-ov-file#badge",
     "language": "JavaScript",
     "badge": "[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)"
   },
   {
     "project": "pre-commit",
+    "package": "",
     "source": "https://pre-commit.com/#badging-your-repository",
     "language": "Python",
     "badge": "[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)"
   },
   {
     "project": "Bandit",
+    "package": "",
     "source": "https://github.com/PyCQA/bandit#show-your-style",
     "language": "Python",
     "badge": "[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)"
   },
   {
     "project": "PDM",
+    "package": "",
     "source": "https://github.com/pdm-project/pdm#badges",
     "language": "Python",
     "badge": "[![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)"
   },
   {
     "project": "isort",
+    "package": "",
     "source": "https://pycqa.github.io/isort/#spread-the-word",
     "language": "Python",
     "badge": "[![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)"
   },
   {
     "project": "Black",
+    "package": "",
     "source": "https://black.readthedocs.io/en/stable/#show-your-style",
     "language": "Python",
     "badge": "[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)"

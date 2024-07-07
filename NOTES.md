@@ -14,6 +14,7 @@
 ```json
 {
   "project": "",
+  "package": "",
   "source": "",
   "language": "",
   "badge": ""
