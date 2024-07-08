@@ -20,3 +20,23 @@
   "badge": ""
 }
 ```
+
+```json
+{
+  "project": "",
+  "package": "",
+  "source": "",
+  "language": "JavaScript",
+  "badge": ""
+}
+```
+
+```json
+{
+  "project": "",
+  "package": "",
+  "source": "",
+  "language": "Python",
+  "badge": ""
+}
+```

@@ -54,5 +54,12 @@
     "source": "https://black.readthedocs.io/en/stable/#show-your-style",
     "language": "Python",
     "badge": "[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)"
+  },
+  {
+    "project": "styled-components",
+    "package": "styled-components",
+    "source": "https://github.com/styled-components/styled-components?tab=readme-ov-file#badge",
+    "language": "JavaScript",
+    "badge": "[![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)"
   }
 ]
